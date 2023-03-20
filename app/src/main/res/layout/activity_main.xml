@@ -23,7 +23,7 @@
                 android:layout_marginTop="200dp"
                 android:backgroundTint="@color/black"
                 app:cardCornerRadius="20dp"
-                app:layout_constraintBottom_toTopOf="@+id/button"
+                app:layout_constraintBottom_toTopOf="@+id/buttonToAd"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent">
@@ -80,7 +80,7 @@
             </androidx.cardview.widget.CardView>
 
             <Button
-                android:id="@+id/button"
+                android:id="@+id/buttonToAd"
                 android:layout_width="120dp"
                 android:layout_height="50dp"
                 android:backgroundTint="@color/black"

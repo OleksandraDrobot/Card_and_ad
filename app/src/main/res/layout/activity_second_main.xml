@@ -20,6 +20,7 @@
             app:srcCompat="@mipmap/advertisement_foreground" />
 
         <Button
+            android:id="@+id/buttonToBack"
             android:layout_width="100dp"
             android:layout_height="50dp"
             android:layout_gravity="center"
